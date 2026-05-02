@@ -68,11 +68,11 @@ No statistically significant correlation detected (p > 0.05) across all output m
 
 **Parameter Sensitivity — Correlation Matrix & Influence Chart:**
 
-![Sensitivity Analysis](assets/sensitivity_analysis.png)
+![Sensitivity Analysis](Sensitivity20%Analysis.png)
 
 **Quality vs Speed Trade-off Analysis:**
 
-![Trade-off Analysis](assets/tradeoff_analysis.png)
+![Trade-off Analysis](Tradeoff20%Analysis.png)
 
 ---
 
@@ -124,9 +124,8 @@ PrintSense/
 │
 ├── DOE_Driven_Print_Quality_Analysis_for_SLA_Systems.ipynb
 ├── README.md
-└── assets/
-    ├── sensitivity_analysis.png
-    └── tradeoff_analysis.png
+├── sensitivity_analysis.png
+└── tradeoff_analysis.png
 ```
 
 ---
@@ -134,5 +133,5 @@ PrintSense/
 ## Author
 
 **Sourabh Gopinath More**
-MS Computer Science — Oregon State University
-[LinkedIn](https://linkedin.com) | [Portfolio](https://portfolio.com) | [GitHub](https://github.com)
+MS Computer Science
+[LinkedIn](https://www.linkedin.com/in/sourabhmore73/) | [Portfolio](https://sourabhmore.carrd.co/) | [GitHub](https://github.com/sgm7373)
