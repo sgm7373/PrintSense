@@ -68,11 +68,11 @@ No statistically significant correlation detected (p > 0.05) across all output m
 
 **Parameter Sensitivity — Correlation Matrix & Influence Chart:**
 
-![Sensitivity Analysis](Sensitivity20%Analysis.png)
+![Sensitivity Analysis](Sensitivity%20Analysis.png)
 
 **Quality vs Speed Trade-off Analysis:**
 
-![Trade-off Analysis](Tradeoff20%Analysis.png)
+![Tradeoff Analysis](Tradeoff%20Analysis.png)
 
 ---
 
