@@ -72,7 +72,7 @@ No statistically significant correlation detected (p > 0.05) across all output m
 
 **Quality vs Speed Trade-off Analysis:**
 
-![Tradeoff](Tradeoff%20.png)
+![Tradeoff](Tradeoff.png)
 
 ---
 
